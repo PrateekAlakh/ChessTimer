@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chess Timer</string>
+    <string name="enter_clock_time">Enter Clock Time</string>
+
+    <string name="title_activity_playing">Playing</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
